@@ -235,11 +235,6 @@ ol {
   text-decoration: underline;
 }
 
-.search-form__label:active {
-  outline: 1px solid #fff;
-  outline-offset: 0;
-}
-
 .search-form__fieldset {
   border: none;
   width: fit-content;
